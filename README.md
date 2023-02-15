@@ -8,7 +8,7 @@ MageComp's [Magento 2 Mobile Login with Email Optional](https://magecomp.com/mag
 
 ## What are the benefits of MageComp’s Mobile Login with Email Optional Extension for Magento 2?
 
-●     Register/Login/Forgot Password without adding email id.
-●     Users can Register/Login via the OTP and password.
-●     Restrict particular countries to use the functionality
-●     Integrated SMS gateway for sending OTP.
+- Register/Login/Forgot Password without adding email id.
+- Users can Register/Login via the OTP and password.
+- Restrict particular countries to use the functionality
+- Integrated SMS gateway for sending OTP.
